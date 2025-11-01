@@ -2,6 +2,12 @@
 
 A live analytics dashboard tracking NBA Top Shot market activity on Flow blockchain. Provides comprehensive market insights for collectors, analysts, and ecosystem builders to identify where attention and pricing power concentrate—focusing on scarcity, serials, and storylines.
 
+## 🔗 Live Dashboard
+
+Visit the live Dune dashboard to browse buyers, sellers, categories, player momentum, and top purchases:
+
+**[NBA Top Shot Market Intelligence Dashboard ↗](https://dune.com/0xthewatchmen/nba-top-shot)**
+
 ## 📊 Key Features
 
 - **Protocol Summary**: Last 30 days sales volume, number of purchases, big purchases ($400+), daily active users
